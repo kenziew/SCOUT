@@ -12,4 +12,5 @@ E-mail: mckwhite@umich.edu <br />
 Release: 1.0 <br />
 Release date: 12/21/2021<br />
 
-Special thanks to Sacha Nandlall for his ultrasound expertise and help refactoring of code
+Special thanks to Sacha Nandlall for his ultrasound expertise and help with refactoring the code  <br />
+E-mail: sacha.nandlall@gmail.com
