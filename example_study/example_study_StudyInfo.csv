@@ -1,0 +1,8 @@
+Patient ID,Image Filename,Limb,Medial Side,Resolution X,Resolution Y 
+Subject001,Subject001_L_01.jpg,L,L,0.0909,0.0909
+Subject001,Subject001_L_02.jpg,L,L,0.0909,0.0909
+Subject001,Subject001_R_01.jpg,R,R,0.0909,0.0909
+Subject001,Subject001_R_02.jpg,R,R,0.0909,0.0909
+Subject002,Subject002_R_01.jpg,R,R,0.0909,0.0909
+Subject002,Subject002_R_02.jpg,R,R,0.0909,0.0909
+Subject002,Subject002_R_03.jpg,R,R,0.0909,0.0909
