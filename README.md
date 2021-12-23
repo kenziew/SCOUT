@@ -8,8 +8,8 @@ An application for Spatial Cartilage Outcomes detected on B-mode Ultrasound imag
 
 The goal was to create a foundation that continue to be expanded upon collectively as our understanding of common ultrasound metrics improves with more rigorous and standardized guidelines and methodologies....
 
-This program was built in MATLAB 2021a for Windows. Source code, standalone version, and documentation are available. <br />
-This program requires the Image Processing Toolbox and the Statistics and Machine Learning Toolbox. <br />
+This program was built in MATLAB 2021a for Windows and requires the Image Processing Toolbox and the Statistics and Machine Learning Toolbox. <br /><br />
+Source code, standalone version, and documentation are available. <br />
 
 Author: McKenzie White <br />
 E-mail: mckwhite@umich.edu <br />
