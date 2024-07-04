@@ -17,3 +17,6 @@ Release: 1.0 <br />
 Release date: 12/21/2021<br />
 
 Special thanks to Sacha Nandlall (sacha.nandlall@gmail.com) for his ultrasound expertise and help with refactoring the code  <br />
+
+Paper: 
+White MS, Palmieri-Smith RM, Lepley LK. Open-sourced semi-automatic program for ultrasound assessments of femoral trochlea cartilage health. Comput Methods Biomech Biomed Engin. 2024 Jan-Mar;27(4):531-537. doi: 10.1080/10255842.2023.2189993. Epub 2023 Mar 17. PMID: 36930954; PMCID: PMC10505246.
